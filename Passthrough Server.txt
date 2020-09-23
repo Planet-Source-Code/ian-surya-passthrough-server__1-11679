@@ -1,0 +1,6 @@
+Passthrough Server
+
+This is a simple server by using Microsoft Winsock that act as a tunnel for http communication.
+This server only relay http communication from client to destination host or to a proxy server, but you can do many things with this code, such as building a full-blown proxy server such as wingate or a gateway to handle two different type of protocol.
+
+Ian (not the one) :)
